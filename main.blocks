@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id="p@:j[[4XSOcVy{az*so@" x="0" y="0"><statement name="HANDLER"><block type="input_compass_calibrate" id="t}7)vQ!|H^iy}z`52.3P"><next><block type="device_change_tempo" id="D5Co(YK$hq}7Hdk-(*1/"><value name="value"><shadow type="math_number" id="A~8NzJC3EcNg)01O8RkS"><field name="NUM">68</field></shadow></value><next><block type="device_show_leds" id="HU59w*TKfpL{[inZAtpt"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        . . . . . 
+        # . . . # 
+        # # # # #
+        `</field><next><block type="controls_repeat_ext" id="q,Js$sC*0Wb$,bO+uF_C"><value name="TIMES"><shadow type="math_whole_number" id="mw,d(SdYRFZh0(LPk{/]"><field name="NUM">1</field></shadow></value><statement name="DO"><block type="basic_show_icon" id="_lQQ6EH@:+NsLvelHq|{"><field name="i">IconNames.LeftTriangle</field><next><block type="device_pause" id="lZ|Tkv$daQ;PEV+!uGF|"><value name="pause"><shadow type="timePicker" id="jX!o/MVn7$g7onbn:,``"><field name="ms">5000</field></shadow></value></block></next></block></statement></block></next></block></next></block></next></block></statement></block></xml>
